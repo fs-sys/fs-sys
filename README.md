@@ -3,7 +3,7 @@
 Currently I'm making Nameplates go brr, this profile is WIP :P
 
 
-
+![FS's GitHub stats](https://github-readme-stats.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=dark)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B6CQOZE)
 
