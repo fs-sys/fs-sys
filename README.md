@@ -1,23 +1,13 @@
-### Hi there I'm FS👋
+### The Jack of all Trades👋
 
-Currently I'm making Nameplates go brr, this profile is WIP :P
+🔭 I’m currently working on ClassicPlates, a VRChat modification to return the beloved nameplates of 2018 while also adding additional customizability.
+
+🌱 I’m currently learning GoLang and working to improve my knowledge various other languages that I'm out of practice in.
+
+### Statistics 
+![](https://komarev.com/ghpvc/?username=fscodingwaifu)
+![](https://github-readme-stats.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
 
-![FS's GitHub stats](https://github-readme-stats.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=dark&count_private=true&hide_border=true)
-
+### Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B6CQOZE)
-
-<!--
-**FSCodingWaifu/FSCodingWaifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
