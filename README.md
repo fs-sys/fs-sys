@@ -1,12 +1,12 @@
 ### The Jack of all Trades👋
 
-🔭 I’m currently working on ClassicPlates, a VRChat modification to return the beloved nameplates of 2018 while adding additional customizability.
+> 🔭 I’m currently working on ClassicPlates, a VRChat modification to return the beloved nameplates of 2018 while adding additional customizability.
 
-🌱 I am learning GoLang and working to improve my knowledge of various other languages where I am out of practice.
+> 🌱 I am learning GoLang and working to improve my knowledge of various other languages where I am out of practice.
 
-🎓 I am in school for Cyber Security and Network Administration at [Redacted].
+> 🎓 I am in school for Cyber Security and Network Administration at [Redacted].
 
-🌳 I touch grass quite regularly.
+> 🌳 I touch grass quite regularly.
 
 ### Statistics 
 ![](https://komarev.com/ghpvc/?username=fscodingwaifu)  
