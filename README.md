@@ -10,7 +10,7 @@
 > - 🌳 I touch grass quite regularly.
 
 ### Statistics 
-[![](https://komarev.com/ghpvc/?username=fscodingwaifu&color=40E0D0)](https://github.com/FSCodingWaifu)  
+[![](https://komarev.com/ghpvc/?username=fscodingwaifu&color=39c9bb)](https://github.com/FSCodingWaifu)  
 [![](https://github-readme-stats-fscodingwaifu.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![](https://github-readme-stats-fscodingwaifu.vercel.app/api/top-langs/?username=fscodingwaifu&theme=tokyonight&&hide=CSSlayout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
