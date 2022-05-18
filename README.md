@@ -11,8 +11,8 @@
 
 ### Statistics 
 [![](https://komarev.com/ghpvc/?username=fscodingwaifu)](https://github.com/FSCodingWaifu)  
-[![](https://github-readme-stats-fscodingwaifu.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![](https://github-readme-stats-fscodingwaifu.vercel.app/api/top-langs/?username=fscodingwaifu&theme=dark&&hide=CSSlayout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-fscodingwaifu.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![](https://github-readme-stats-fscodingwaifu.vercel.app/api/top-langs/?username=fscodingwaifu&theme=tokyonight&&hide=CSSlayout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B6CQOZE)
