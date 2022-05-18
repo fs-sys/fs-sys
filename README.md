@@ -5,9 +5,10 @@
 🌱 I’m currently learning GoLang and working to improve my knowledge various other languages that I'm out of practice in.
 
 ### Statistics 
-[](https://komarev.com/ghpvc/?username=fscodingwaifu)
-[](https://github-readme-stats.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=dark&count_private=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
+### Badges
+![](https://komarev.com/ghpvc/?username=fscodingwaifu)
 
 ### Buy me a coffee
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B6CQOZE)
