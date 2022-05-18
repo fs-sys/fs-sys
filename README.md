@@ -11,6 +11,8 @@
 >
 > - 🎓 In school for Cyber Security and Network Administration at ***[Redacted]***.
 >
+> - ⚰️ Not a monke™
+>
 > - 🌳 I touch grass quite regularly.
 
 ## Statistics 
