@@ -5,11 +5,11 @@
 
 ## Profile
 >
-> - 🔭 I’m currently working on ClassicPlates, a VRChat modification to return the beloved nameplates of 2018 while adding additional customizability.
+> - 🔭 Currently working on ClassicPlates, a VRChat modification to return the beloved nameplates of 2018 while adding additional customizability.
 >
-> - 🌱 I am learning GoLang and working to improve my knowledge of various other languages where I am out of practice.
+> - 🌱 Learning GoLang and working to improve my knowledge of various other languages where I am out of practice.
 >
-> - 🎓 I am in school for Cyber Security and Network Administration at *[Redacted]*.
+> - 🎓 In school for Cyber Security and Network Administration at ***[Redacted]***.
 >
 > - 🌳 I touch grass quite regularly.
 
