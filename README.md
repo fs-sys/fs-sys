@@ -6,7 +6,7 @@
 
 ### Statistics 
 ![](https://komarev.com/ghpvc/?username=fscodingwaifu)
-![](https://github-readme-stats.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=dark&count_private=true&hide_border=true)
+![Activity](https://github-readme-stats.vercel.app/api?username=fscodingwaifu&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
 
 ### Buy me a coffee
