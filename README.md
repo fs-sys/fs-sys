@@ -21,7 +21,7 @@
 
 ## Profile
 >
-> - 🔭 Currently working on ClassicPlates, a VRChat modification to return the beloved nameplates of 2018 while adding additional customizability.
+> - 🔭 Currently working on VRCPlates, a ChilloutVR modification to return the beloved nameplates of VRChat 2018 inside of a superior game.
 >
 > - 🌱 Learning GoLang and working to improve my knowledge of various other languages where I am out of practice.
 >
