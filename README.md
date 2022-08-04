@@ -21,9 +21,9 @@
 
 ## Profile
 >
-> - 🔭 Currently working on VRCPlates, a ChilloutVR modification to return the beloved nameplates of VRChat 2018 inside of a superior game.
+> - 🔭 Currently working on my deteriorating mental state. *please help me*
 >
-> - 🌱 Learning GoLang and working to improve my knowledge of various other languages where I am out of practice.
+> - 🌱 Learning C++ and other languages where I need more proficiency.
 >
 > - 🎓 In school for Cyber Security and Network Administration at ***[Redacted]***.
 >
