@@ -1,7 +1,7 @@
 <h1 align=center>Hello there, I'm FS👋</h1>
 <p align="center">
   <a href="https://discord.com/users/518546999335845889" target="_blank"><img alt=Discord" src="https://img.shields.io/static/v1?label=.FS.&message=%238519&style=for-the-badge&logo=appveyor&color=28AFB0&logo=Discord"></a>
-  <a href="https://is-my-nig.ga" target="_blank"><img alt=My Website" src="https://img.shields.io/website?label=is-my-nig.ga&style=for-the-badge&url=https%3A%2F%2Fis-my-nig.ga/ping"></a>
+  <a href="https://jesus-christ.is-my-nig.ga" target="_blank"><img alt=My Website" src="https://img.shields.io/website?label=jesus-christ.is-my-nig.ga&style=for-the-badge&url=https%3A%2F%2Fjesus-christ.is-my-nig.ga"></a>
 </p>
 
 <div align=center>
