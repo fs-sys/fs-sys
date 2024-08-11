@@ -1,7 +1,4 @@
 <h1 align=center>Hello there, I'm FS👋</h1>
-<p align="center">
-  <a href="https://discord.com/users/518546999335845889" target="_blank"><img alt=Discord" src="https://img.shields.io/static/v1?label=.FS.&message=%238519&style=for-the-badge&logo=appveyor&color=28AFB0&logo=Discord"></a>
-</p>
 
 <div align=center>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></a>
